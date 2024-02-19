@@ -1,0 +1,9 @@
+
+#creates virtual environment
+1. pip install virtualenv 
+2. virtualenv --version
+3. virtualenv Venv 
+4. .\Venv\Scripts\activate (If failed run this first: Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser)
+
+#installations
+1. pip install flask
